@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261383006976",
+    "firebase_url": "https://quinielasrd-mrl.firebaseio.com",
+    "project_id": "quinielasrd-mrl",
+    "storage_bucket": "quinielasrd-mrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261383006976:android:6c10ce99347b16f480e1e5",
+        "android_client_info": {
+          "package_name": "com.kiskoo.quinielasrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261383006976-elklm0m13n3v3cuod5klt1ovbl35n96j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lr0UMlsL5gVTsdnb_xHq_SyyrZpMasA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261383006976-elklm0m13n3v3cuod5klt1ovbl35n96j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
