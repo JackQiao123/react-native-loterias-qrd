@@ -24,7 +24,7 @@ const config = {
   SETTINGS: {
     ENCRYPT: true,
     REFRESH_INTERVAL: 30000,
-    APP_NAME: 'app_dominicanas'
+    APP_NAME: 'app_qrd'
   },
 
   VIEW_OPTIONS: {
