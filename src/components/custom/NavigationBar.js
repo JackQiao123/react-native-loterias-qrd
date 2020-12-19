@@ -42,7 +42,6 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     width: '100%',
-    marginLeft: -Metrics.marginDefault,
     paddingTop: Metrics.statusBarHeight * 1.5,
     flexDirection: 'row'
   },
