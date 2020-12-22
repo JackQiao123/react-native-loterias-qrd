@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCzWnGRTPidiMI3pVasHiKHDm28L7WLwg4</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mrl.qrd</string>
+	<key>CFBundleDisplayName</key>
+	<string>Loterías QRD</string>
+	<key>CLIENT_ID</key>
+	<string>261383006976-9mc25p4j0t1oqd3of36tk1q3n3fm771r.apps.googleusercontent.com</string>
+	<key>DATABASE_URL</key>
+	<string>https://quinielasrd-mrl.firebaseio.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>261383006976</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:261383006976:ios:64e455acaa37bba080e1e5</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>quinielasrd-mrl</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.261383006976-9mc25p4j0t1oqd3of36tk1q3n3fm771r</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quinielasrd-mrl.appspot.com</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-native-community/datetimepicker": "^3.0.8",
     "@react-native-community/netinfo": "^5.9.4",
+    "@react-native-community/toolbar-android": "^0.1.0-rc.2",
     "babel-polyfill": "^6.26.0",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.15",
@@ -19,7 +20,6 @@
     "react": "^16.13.1",
     "react-native": "^0.62.2",
     "react-native-collapsible": "^1.5.2",
-    "react-native-datepicker": "^1.7.2",
     "react-native-drawer": "^2.5.1",
     "react-native-dropdownalert": "^4.2.1",
     "react-native-exit-app": "^1.1.0",

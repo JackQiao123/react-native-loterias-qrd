@@ -62,8 +62,8 @@ class App extends Component {
     const renderContent = this.state.initialized ? (
       <MainScreen />
     ) : (
-      <View style={Styles.container}>
-        <Image style={Styles.background} source={Images.splash} resizeMode="cover" />
+      <View style={[Styles.container, {backgroundColor: 'black'}]}>
+        <Image style={Styles.background} source={Images.splash} resizeMode="contain" />
         {CommonWidget.renderActivityIndicator()}
       </View>
     );
