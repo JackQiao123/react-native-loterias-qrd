@@ -13,7 +13,7 @@ const styles = {
   navigationBar: {
     backgroundColor: Colors.navigationBackground,
     height: Metrics.navigationBarHeight * 1.2,
-    paddingTop: Metrics.statusBarHeight * 1.5,
+    paddingTop: Metrics.statusBarHeight,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
@@ -42,11 +42,11 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     width: '100%',
-    paddingTop: Metrics.statusBarHeight * 1.5,
+    paddingTop: Metrics.statusBarHeight,
     flexDirection: 'row'
   },
   navigationImage: {
-    height: Metrics.navigationBarHeight * 1.5,
+    height: Metrics.navigationBarHeight * 0.8,
     width: Metrics.navigationBarHeight * 1.5 * CONFIG.VIEW_OPTIONS.LAYOUTS.LOGO_ASPECT_RATIO,
     marginRight: Metrics.marginDefault
   },
